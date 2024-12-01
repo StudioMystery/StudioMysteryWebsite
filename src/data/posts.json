@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "body": "<p><img src=\"/BlogImages/sm_logo.png\" alt=\"image\"></p>\n<p>At this point in my life, I've done a lot of different, difficult things.</p>\n<ol>\n<li>Worked retail fast food</li>\n<li>Cleaned toilets as a janitor</li>\n<li>Lead the marketing team for an Inmate Telecom Company</li>\n<li>Lead a team of 10 through a complete re-write of a DNN app</li>\n<li>Remodeled a basement</li>\n</ol>\n<p>There have been a lot of ups and downs. Through it all, I've</p>\n",
+      "title": "Why does this blog exist?",
+      "date": "2024-12-01 08:00 AM",
+      "description": "I'm an indie developer trying to build a career, of course I have a blog.",
+      "isCompleted": true,
+      "slug": "why-does-this-blog-exist",
+      "tags": [
+        "gaming",
+        "game dev",
+        "indie games"
+      ]
+    }
+  ]
+}
