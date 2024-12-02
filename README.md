@@ -11,4 +11,4 @@ To add a blog post:
 
 Based on: | https://github.com/K-Sato1995/sveltekit-blog-template
 
-TODO: Look into this to simplify markdown display
+TODO: Look into this to simplify markdown display | https://sveltekit-static-blog-template.vercel.app/
