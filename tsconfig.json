@@ -1,11 +1,18 @@
 {
-	"extends": "./.svelte-kit/tsconfig.json",
-	"compilerOptions": {
-		"paths": {
-			"$data": ["./src/data"],
-			"$data/*": ["./src/data/*"],
-			"$lib": ["./src/lib"],
-			"$lib/*": ["./src/lib/*"],
-		}
-	},
+  "compilerOptions": {
+    "paths": {
+      "$data": ["./src/data"],
+      "$data/*": ["./src/data/*"],
+      "$lib": ["./src/lib"],
+      "$lib/*": ["./src/lib/*"]
+    },
+    "baseUrl": ".", // This is important for resolving modules relative to the project root
+    "strict": true, // Enables strict mode for better TypeScript support
+    "esModuleInterop": true, // For compatibility with non-ESM packages
+    "moduleResolution": "node",
+    "target": "esnext",
+    "module": "esnext",
+    "lib": ["dom", "esnext"]
+  },
+  "include": ["src/**/*", "svelte.config.js", "vite.config.js"]
 }
