@@ -15,6 +15,7 @@ const config = {
   },
   kit: {
     adapter: adapter({
+      pages: "build",
       fallback: "404.html",
     }),
     alias: {
