@@ -18,7 +18,7 @@ const config = {
 		  $data: "./src/data",
 		},
 		paths: {
-		  base: process.argv.includes("dev") ? "" : "/StudioMysteryWebsite", //process.env.BASE_PATH,
+		  base: process.argv.includes("dev") ? "" : "", //process.env.BASE_PATH,
 		},
 		//outDir: "build",
 	  },
