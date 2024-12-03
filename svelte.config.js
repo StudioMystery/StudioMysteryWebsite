@@ -11,7 +11,7 @@ const config = {
 	kit: {
 		adapter: adapter({
 		  pages: "build",
-		  fallback: "404.html",
+		  fallback: "index.html",
 		}),
 		alias: {
 		  $lib: "./src/lib",
@@ -20,7 +20,7 @@ const config = {
 		paths: {
 		  base: process.argv.includes("dev") ? "" : "/StudioMysteryWebsite", //process.env.BASE_PATH,
 		},
-		outDir: "build",
+		//outDir: "build",
 	  },
 
 	extensions: ['.svelte', '.svx']
