@@ -1,7 +1,18 @@
 {
   "data": [
     {
-      "body": "<p><img src=\"/BlogImages/sm_logo.png\" alt=\"image\"></p>\n<p>At this point in my life, I've done a lot of different, difficult things.</p>\n<ol>\n<li>Worked retail fast food</li>\n<li>Cleaned toilets as a janitor</li>\n<li>Lead the marketing team for an Inmate Telecom Company</li>\n<li>Lead a team of software developers through a complete re-write of a DNN app</li>\n<li>Remodeled a basement</li>\n</ol>\n<p>There have been a lot of ups and downs. Through it all, I've</p>\n",
+      "body": "<p>This year, the gaming industry continues to face a number of challenges:</p>\n<ol>\n<li>Big budget, AAA games are bombing with core audiences. (Dragon Age, Star Wars Outlaws, Golum, Call of Duty, and Starfield.)</li>\n<li>Microtransactions continue to shatter immersion and prey on consumers.</li>\n<li>Corporate interferance (risk avoidance) diminishes creativity.</li>\n</ol>\n<p>But overall, I think these issues all stem from the same root problem. If you work in gaming, your north star should be “fun.”</p>\n<p>If you are making decisions based on ego, or the bottom line, you’re going to eventually run afoul of your consumer.</p>\n<p>If the vast majority of players don’t like your decisions, or just don’t want the content, you are not adding latent value, you are subtracting it.</p>\n<p>I believe there is real friction when a player looks through a cosmetic store, at all the content they’ll never use, blatantly aware that the company behind the game is manipulating them.</p>\n<p>This erodes the one thing your game is supposed to do: provide enjoyment.</p>\n<p>Thankfully, the solution is simple. Focus on the consumers needs.</p>\n",
+      "title": "Why did gaming struggle in 2024?",
+      "date": "2024-12-02 08:00 AM",
+      "description": "The video games industry has faced some challenges in 2024.",
+      "isCompleted": true,
+      "slug": "why-did-gaming-struggle-in-2024",
+      "tags": [
+        "gaming"
+      ]
+    },
+    {
+      "body": "<p><img src=\"/BlogImages/sm_logo.png\" alt=\"image\"></p>\n<p>In a synthetic age, I believe the most human thing we can do is to tell stories. Studio Mystery exists to foster and produce those stories, to keep us excited, entertained, and fulfilled. That is the mission of the company.</p>\n<p>This blog will be a tool to support that mission: I plan to post plenty of fiction here, in chapter-length installments, as well as my thoughts on craft and design.</p>\n<p>Some of my thoughts on engineering and code may also wind up here too. All art is political, but not necesarily partisan, so I will try to keep my soapboxing somewhere else.</p>\n<p>Above all, I hope that what I produce brings value to you, my dear reader.</p>\n",
       "title": "Why does this blog exist?",
       "date": "2024-12-01 08:00 AM",
       "description": "I'm an indie game developer trying to build a career, of course I have a blog.",

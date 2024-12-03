@@ -43,5 +43,6 @@
 />
 <div class="about-container">
   <h1>About</h1>
-  <p>Tell People about you!!</p>
+  <p>Studio Mystery is an indie game studio, focusing on narrative-driven RPGs. It is run by <a href="https://bsky.app/profile/thadd-simpson.bsky.social">Thadd Simpson</a>, a writer, developer, tester, and gaming enthusiast.</p>
+  <p>If you want to reach out, follow me on <a href="https://bsky.app/profile/thadd-simpson.bsky.social">BlueSky</a>.</p>
 </div>
