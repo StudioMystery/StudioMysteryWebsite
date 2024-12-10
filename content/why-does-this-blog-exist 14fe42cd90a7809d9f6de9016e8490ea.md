@@ -7,7 +7,7 @@ slug: why-does-this-blog-exist
 tags: [gaming, game dev, indie games]
 ---
 
-![image](/BlogImages/sm_logo.png)
+![sm_logo.png](sm_logo.png)
 
 In a synthetic age, I believe the most human thing we can do is to tell stories. Studio Mystery exists to foster and produce those stories, to keep us excited, entertained, and fulfilled. That is the mission of the company.
 
