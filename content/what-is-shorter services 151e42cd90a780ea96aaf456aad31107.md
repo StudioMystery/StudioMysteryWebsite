@@ -7,7 +7,7 @@ slug: what-is-shorter.services
 tags: [software dev]
 ---
 
-![shorter logo] (https://www.shorter.services/_app/immutable/assets/shorts.DeCxb7jb.png)
+![shorter logo](https://www.shorter.services/_app/immutable/assets/shorts.DeCxb7jb.png)
 
 [Shorter.Services](https://www.shorter.services) is a SAAS application I dreamed up in December 2023. I wanted to make it easier to convert human-readable text from rasterized files into machine-readable data. I also wanted to make money off what I thought was a unique idea.
 
