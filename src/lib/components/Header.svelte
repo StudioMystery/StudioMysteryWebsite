@@ -3,7 +3,9 @@
 </script>
 
 <nav class="header">
-  <a href="/" class="header__title">{blogMetaData.blogTitle}</a>
+  <a href="/" class="header__title">
+    <img class="header__img" src="./favicon.png">
+    {blogMetaData.blogTitle}</a>
   <ul class="header__links">
     <li class="header__links_item">
       <a href="/" class="header__links__item__link">Home</a>
@@ -29,6 +31,10 @@
     font-weight: bold;
     font-size: 1.5rem;
     line-height: 6.2rem;
+  }
+
+  .header__img {
+    max-height: 2rem;
   }
 
   .header__links {
