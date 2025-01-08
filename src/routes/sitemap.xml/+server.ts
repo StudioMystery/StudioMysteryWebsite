@@ -1,19 +1,15 @@
+// @ts-nocheck
+
 import { envVariables } from "$lib/envVariables";
 import { getPosts } from '$lib/getPosts'
 
 
-export async function get() {
-  const response = await getPosts()
+export async function GET() {
+  const response = getPosts()
+
   const body = sitemap(response.body.posts)
 
-  const headers = {
-    'Cache-Control': 'max-age=0, s-maxage=3600',
-    'Content-Type': 'application/xml',
-  }
-  return {
-    headers,
-    body,
-  }
+  return new Response(String(body))
 }
 
 const sitemap = posts => {

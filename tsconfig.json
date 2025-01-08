@@ -9,11 +9,12 @@
 	  },
 	  "baseUrl": ".", // This is important for resolving modules relative to the project root
 	  "strict": true, // Enables strict mode for better TypeScript support
-	  "esModuleInterop": true, // For compatibility with non-ESM packages
 	  "moduleResolution": "node",
 	  "target": "esnext",
 	  "module": "esnext",
-	  "lib": ["dom", "esnext"]
+	  "lib": ["dom", "esnext"],
+	  "resolveJsonModule": true,
+	  "esModuleInterop": true
 	},
 	"include": ["src/**/*", "svelte.config.js", "vite.config.js"]
   }
