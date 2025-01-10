@@ -8,6 +8,10 @@ tags: [Game Design]
 categories: [Development]
 ---
 
+![fo3.jpg](/images/fo3.jpg)
+
+## Perfecting survival horror
+
 I think the games that have had the most consistent impact on me in the past have been survival horror games. But what makes a survival horror game perfect?
 
 A survival horror game transcends the genre when it uses horror elements to effectively enhance its non-horror message. Here are some examples:
@@ -18,9 +22,11 @@ In theory, the horror in these games awakens a primal sense of danger in the pla
 
 I can point to any of these games and tell you the exact beats where horror supports the overall message, but let’s start with my poster child, Fallout 3.
 
-## Fallout 3 is Bethesda’s best horror game
+![/SuperDuperMarketAA.webp](/images/SuperDuperMarketAA.webp)
 
-The Super Duper Mart. The Capital Wasteland. The DC Ruins. Trainquility Lane. Vault 87. The Dunwich Building.
+## Bethesda’s best horror game
+
+Super Duper Mart. The Capital Wasteland. The DC Ruins. Trainquility Lane. Vault 87. The Dunwich Building.
 
 These are some of the scariest locations in the game, and most of them fall on the main quest line, meaning you have to move through them to progress.
 
@@ -35,7 +41,9 @@ Let’s pause and unpack this. If you were to get stuck in any of those places, 
 
 When it comes to awful ways to die, you’re spoiled for choice in Fallout 3. But these gruesome places aren’t just there for giggles. Every horrorifying encounter in Fallout 3 enhances the game’s themes:
 
-## How horror enhances the themes of Fallout 3
+![fo3lvlup.jpg](/images/fo3lvlup.jpg)
+
+## Survival as character arc
 
 War never changes. Survival of the fittest. Tribalism. Society is brittle. History repeats itself. These are some of the themes of Fallout 3.
 
@@ -46,6 +54,8 @@ This is made worse because it’s ONLY YOU out there in combat. Be honest, for m
 However, at higher levels, the tide starts to turn. Suddenly the gang of super mutants attacking Bigtown is a mild inconveinance, not a skin-of-your-teeth, save-scumming victory. Even threats like Death Claws and Super Mutant Behemouths become manageable when you have plasma weapons and power armor.
 
 You can even befriend the world’s unstoppable force, super mutant Fawkes, but only AFTER you’ve crept through the rusted, infected carbon copy of your childhood home, Vault 87.
+
+![Boone.webp](/images/Boone.webp)
 
 Contrast that with sequel New Vegas, where most players easily found Boone in Novac, the game’s third peaceful settlement. Most of us probably kept the dead-shot body guard all the way until the Hoover Dam. Maybe that’s why New Vegas didn’t feel as threatening.
 
@@ -61,7 +71,7 @@ Your in-game character isn’t the only thing that’s leveled up. Despite the b
 
 ## Final Thoughts
 
-There is obviously a lot of crossover between the post apocalyptic and horror genres, going back all the way to the book _Alas, Babylon_. And in some ways, post apocolytic is a subset of horror.
+There is obviously a lot of crossover between the post apocalyptic and horror genres, going back all the way to the book _Alas, Babylon_. And in some ways, post apocolytic is a subset of survival horror.
 
 But my concept of the perfect survival horror game requires more than simple adherence to the genre. Fallout 3 bends the genre to its message, and that is a level of craft that may be overlooked or forgotten by modern audiences, and definitely doesn’t get enough credit.
 
