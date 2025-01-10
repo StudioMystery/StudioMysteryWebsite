@@ -1,5 +1,5 @@
 ---
-title: Fallout 3 is the perfect Survival Horror game
+title: Fallout 3 is the Perfect Survival Horror Game
 date: 2024-12-06
 description: My thoughts on the over-shadowed survival horror classic that restarted a franchise..
 isCompleted: true

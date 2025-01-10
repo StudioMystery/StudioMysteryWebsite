@@ -31,5 +31,5 @@ These can be anything you want, based on keywords from the articles
 ## Styleguide
 
 1. AP style caps for headings (any non-basic word longer than 4 letters)
-2. At least 1 image per blog post
+2. At least 1 image per blog post (if you want to)
 3. H2 and no ruled lines
