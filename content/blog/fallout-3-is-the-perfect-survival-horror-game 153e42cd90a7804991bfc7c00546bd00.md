@@ -4,13 +4,13 @@ date: 2024-12-06
 description: My thoughts on the over-shadowed survival horror classic that restarted a franchise..
 isCompleted: true
 slug: fallout-3-is-the-perfect-survival-horror-game
-tags: [Game Design]
+tags: [Fallout 3, Survival Horror, Fallout New Vegas, Bethesda]
 categories: [Development]
 ---
 
-![fo3.jpg](/images/fo3.jpg)
+![fo3.webp](/images/fo3.webp)
 
-## Perfecting survival horror
+## Perfecting Survival Horror
 
 I think the games that have had the most consistent impact on me in the past have been survival horror games. But what makes a survival horror game perfect?
 
@@ -24,7 +24,7 @@ I can point to any of these games and tell you the exact beats where horror supp
 
 ![/SuperDuperMarketAA.webp](/images/SuperDuperMarketAA.webp)
 
-## Bethesda’s best horror game
+## Bethesda’s Best Horror Game
 
 Super Duper Mart. The Capital Wasteland. The DC Ruins. Trainquility Lane. Vault 87. The Dunwich Building.
 
@@ -43,7 +43,7 @@ When it comes to awful ways to die, you’re spoiled for choice in Fallout 3. Bu
 
 ![fo3lvlup.jpg](/images/fo3lvlup.jpg)
 
-## Survival as character arc
+## Survival as Character Arc
 
 War never changes. Survival of the fittest. Tribalism. Society is brittle. History repeats itself. These are some of the themes of Fallout 3.
 
