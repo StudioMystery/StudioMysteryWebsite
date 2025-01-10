@@ -10,9 +10,12 @@
 ## Credits:
 
 Originally Based on: | https://github.com/K-Sato1995/sveltekit-blog-template
+
 Currently Based on: | https://github.com/alex-shpak/hugo-book
 
 ## Tags and Categories
+
+Always use initial caps!
 
 ### Categories
 

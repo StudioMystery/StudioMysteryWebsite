@@ -5,7 +5,7 @@ description: My thoughts on the over-shadowed survival horror classic that resta
 isCompleted: true
 slug: fallout-3-is-the-perfect-survival-horror-game
 tags: [Fallout 3, Survival Horror, Fallout New Vegas, Bethesda]
-categories: [Development]
+categories: [Game Dev]
 ---
 
 ![fo3.webp](/images/fo3.webp)
