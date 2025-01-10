@@ -1,3 +1,7 @@
+# Hugo
+/public
+
+# Sveltekit
 node_modules
 
 # Output

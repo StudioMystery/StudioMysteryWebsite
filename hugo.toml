@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Studio Mystery'
+theme = 'hugo-book'
+[params]
+    BookTheme = 'dark'
+    BookSection = '*'
+    BookLogo = '/images/favicon.ico'
