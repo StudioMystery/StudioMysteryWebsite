@@ -1,8 +1,6 @@
 ---
 title: How to Apply Quantitative Predictions to Game Design
 date: 2024-12-05
-description: Industry leader Gabe Newel espouses the virtures of quantitative predictions, but how does that work in practice?
-isCompleted: true
 slug: how-to-apply-quantitative-predictions-to-game-design
 categories: [Game Dev]
 tags: [Quantitative Analysis, Predictions, Valve, Gabe Newel, AB Testing]

@@ -1,11 +1,12 @@
 ---
 title: Why did gaming struggle in 2024?
 date: 2024-12-02
-description: The video games industry has faced some challenges in 2024.
-isCompleted: true
 slug: why-did-gaming-struggle-in-2024
-tags: [gaming]
+categories: [Gaming]
+tags: [AAA Games, Indie Games, Starfield, Games Industry]
 ---
+
+## 2024 had some Big Problems
 
 This year, the gaming industry continues to face a number of challenges:
 
@@ -17,7 +18,9 @@ But overall, I think these issues all stem from the same root problem. If you wo
 
 If you are making decisions based on ego, or the bottom line, you’re going to eventually run afoul of your consumer.
 
-If the vast majority of players don’t like your decisions, or just don’t want the content, you are not adding latent value, you are subtracting it.
+If the vast majority of players don’t like your decisions, or just don’t want the content, you are not adding latent value, you are subtracting it. Even if you're still making a profit.
+
+## Beyond Profit
 
 I believe there is real friction when a player looks through a cosmetic store, at all the content they’ll never use, blatantly aware that the company behind the game is manipulating them.
 

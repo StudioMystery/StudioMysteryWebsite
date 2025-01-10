@@ -1,13 +1,14 @@
 ---
 title: Why does this blog exist?
 date: 2024-12-01
-description: I'm an indie game developer trying to build a career, of course I have a blog.
-isCompleted: true
 slug: why-does-this-blog-exist
-tags: [gaming, game dev, indie games]
+categories: [Gaming]
+tags: [Purpose, Mission, Studio Mystery]
 ---
 
 ![sm_logo.png](/images/sm_logo.png)
+
+## Why Bother?
 
 In a synthetic age, I believe the most human thing we can do is to tell stories. Studio Mystery exists to foster and produce those stories, to keep us excited, entertained, and fulfilled. That is the mission of the company.
 

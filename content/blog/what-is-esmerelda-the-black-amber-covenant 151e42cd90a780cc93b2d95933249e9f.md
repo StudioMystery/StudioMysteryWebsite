@@ -1,11 +1,21 @@
 ---
 title: "What is Esmerelda: The Black Amber Covenant?"
 date: 2024-12-04
-description: A top-down, action-RPG focused on story, player choice, and team-based melee combat.
-isCompleted: true
 slug: what-is-esmerelda-the-black-amber-covenant
-tags: [game design]
+categories: [Game Dev]
+tags:
+  [
+    Esmerelda,
+    The Black Amber Covenant,
+    RPG,
+    Action,
+    Link to the Past,
+    Castlevania,
+    Earthbound,
+  ]
 ---
+
+## What is Esmerelda: The Black Amber Covenant?
 
 ETBAC is a game I’ve been working on (in some guise) since 2020. It’s a part-time, labor of love project, but I’m trying to take it as seriously as possible. I have big dreams for it, hopefully it gets to be as big as Stardew Valley someday.
 
