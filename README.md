@@ -4,7 +4,7 @@
 
 1. Write it in Notion, under StudioMystery/Marketing/Blog
 2. Copy the content of the Notion page
-3. Paste the Notion page contents into a new .md file under /content
+3. Paste the Notion page contents into a new .md file under /content folder.
 4. If there's an image, add it to /static/images and change the img tag in the md file
 
 ## Credits:
@@ -23,6 +23,7 @@ Always use initial caps!
 2. Web Dev
 3. Gaming
 4. Fiction
+5. Personal
 
 ### Tags
 
