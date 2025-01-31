@@ -1,5 +1,3 @@
-# How I Stopped Scrolling on my Phone
-
 ---
 title: How I Stopped Scrolling on my Phone
 date: 2025-01-31
@@ -30,9 +28,9 @@ https://play.google.com/store/apps/details?id=com.qqlabs.minimalistlauncher
 
 ## Step 3: Deconstructing my Phone Usage
 
-I used my phone for a lot of things before. 
+I used my phone for a lot of things before.
 
-It’s the ultimate digital multi tool, but the more I keep it in my hands, the more likely I am to subconciously use it or open it. 
+It’s the ultimate digital multi tool, but the more I keep it in my hands, the more likely I am to subconciously use it or open it.
 
 I realized my goal should be to keep it closed (but ready if I need it).
 
@@ -58,7 +56,7 @@ Changing interfaces meant a lot of unused apps.
 
 So I deleted half the apps on my phone. All the games, music, podcasts, sports, news, job boards, shopping, social media accounts, streaming video, and even my beloved Firefox, all of it was deleted.
 
-The point is: go nuclear. 
+The point is: go nuclear.
 
 Getting rid of unnecessary apps means you will use your phone less often. I will still use those services, just on different devices.
 
@@ -79,7 +77,7 @@ So for each of these apps, I setup a max daily time limit (30 min) through Andro
 
 The minimalist launcher also allowed me to set “Blocking Schedules” to prevent me from using those two highly addictive apps from 8 PM to 7 AM. That has been a complete gamechanger.
 
-The effect is that I don’t waste my time on either app. 
+The effect is that I don’t waste my time on either app.
 
 I get in, and get out quickly, to preserve my daily time balance, and at night, when I’m most prone to distraction, I’m protected.
 
@@ -101,7 +99,7 @@ I’m using Feeder (RSS) on my phone for reading the occassional article. It is 
 
 ## Conclusion
 
-I am now extremely satisfied with how I use my phone. 
+I am now extremely satisfied with how I use my phone.
 
 I use it to do good things, like texting, writing, and adding music to real life. I don’t waste hours doomscrolling on it anymore.
 
