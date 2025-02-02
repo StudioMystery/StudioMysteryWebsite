@@ -256,8 +256,11 @@ body[dir="rtl"] .book-menu {
   .book-toc-content {
     width: $toc-width;
     padding: $padding-16;
-
     @include fixed;
+
+    // sidebar scroll
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox, Chrome, Safari*/
   }
 
   img {

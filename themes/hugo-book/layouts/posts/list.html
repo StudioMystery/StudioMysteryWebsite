@@ -1,9 +1,9 @@
 {{ define "main" }}
   {{ range sort .Paginator.Pages }}
   <article class="markdown book-post">
-    <h2>
+    <h1>
       <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
-    </h2>
+    </h1>
     {{ partial "docs/post-meta" . }}
     <div class="book-post-content">
       {{- .Summary -}}
