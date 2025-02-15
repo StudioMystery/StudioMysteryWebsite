@@ -1,6 +1,6 @@
 ---
 title: “Some Thoughts on Designing Morality in Games”
-date: 2024-02-09
+date: 2025-02-15
 slug: some-thoughts-on-designing-morality-in-games
 categories: [Game Dev]
 
