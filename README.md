@@ -1,5 +1,11 @@
 # Studio Mystery Website
 
+## Get Started:
+
+```bash
+hugo server
+```
+
 ## To add a blog post:
 
 1. Write it in Notion, under StudioMystery/Marketing/Blog
