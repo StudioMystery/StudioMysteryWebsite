@@ -101,3 +101,5 @@ The mech stood in the water beside the building, and Yuri walked towards it. Wit
 As he slurpped and read the zines he’d purchased earlier, he thought about how he’d spend the rest of the day before returning to the academy. His day off was almost over, and tomorrow he’d be back to movement and combat drills in the mech. He wanted to make the most of his free time. Maybe he would swim or watch the sunset from the beach.
 
 Being stationed near the Gulf of Mexico had its perks.
+
+{{<button href="https://docs.google.com/forms/d/e/1FAIpQLSeB_Xtr4YukPax0lpWkOyimsJ2lY4GlhRb1tb30cc4fngKdLA/viewform?usp=header">}}Reader Survey: Help me write SoftWar!{{</button>}}

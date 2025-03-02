@@ -497,3 +497,5 @@ Boone carried Hawthorne out to the stretcher, then the engineers carried her awa
 In fact, three mechs rested in the bays, side by side, with a long metal walkway running between all three of them, at cockpit level. At their feet, there was a loading dock, several scissor-lifts, and many crates and boxes that were held down to the floor with straps. It looked like the inside of a manufacturing plant.
 
 “You coming?” Boone asked the boy over his shoulder as he was heading down the walk way. It was more of an order than a question.
+
+{{<button href="https://docs.google.com/forms/d/e/1FAIpQLSe6Ma2HF37GPNXILquiqwLiY7NOYnF8ESmuZp_X4bKlPcWQQA/viewform?usp=header">}}Reader Survey: Help me write SoftWar!{{</button>}}
