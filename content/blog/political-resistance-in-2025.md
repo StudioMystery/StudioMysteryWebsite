@@ -1,5 +1,5 @@
 ---
-title: “Political Resistance in 2025”
+title: Political Resistance in 2025
 date: 2025-03-16
 slug: political-resistance-in-2025
 categories: [Politics]
