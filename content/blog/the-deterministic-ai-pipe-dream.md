@@ -1,5 +1,5 @@
 ---
-title: “The Deterministic AI Pipe-Dream”
+title: The Deterministic AI Pipe-Dream
 date: 2025-03-09
 slug: the-deterministic-ai-pipe-dream
 categories: [Web Dev]
