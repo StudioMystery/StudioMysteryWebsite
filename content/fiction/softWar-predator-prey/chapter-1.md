@@ -408,7 +408,7 @@ Yuri trailed the reticle on the moving target, using the predictive targeting sy
 
 On the monitor, Dianna noticed the mouse moving without her or Yuri moving it. They were being hacked. The cabin lights started flickering. terminals started opening and waves of execution results started filling the windows. She may not have been able to type, but she could hammer Alt + F4 to try and slow them down. But like the heads of a hydra, the terminals regrew as fast as she killed them.
 
-"He's in our system. Last shot Cadet!"
+"He's in our system. Last shot cadet!"
 
 A real lizard with red and black spots ran across the monitors. The color of the windows inverted. A crying baby started screaming through the speakers, and then a jackhammer, and then a man shouting in French. The hacker was trying to distract them.
 
