@@ -11,7 +11,7 @@ Are you an angry American who is disillusioned by American politics? Depressed e
 
 ### Join the DSA
 
-If you’re a fan of Burnie Sanders or AOC, you should join the DSA and participate in your local chapter. 
+If you’re a fan of Burnie Sanders or AOC, you should join the DSA and participate in your local chapter.
 
 In light of how poorly the Democratic party is handling Trump’s second term, you should join an organization that is actually fighting against tyranny and oppression.
 
@@ -31,9 +31,9 @@ Talking to people in real life is essential. What are you going to say?
 
 Despite what some liberals believe, red-state Trump supporters are not idiots. They are very capable, industrious, and even morally conscious people.
 
-However, on mass, they are non-critical media consumers. They consume media emotionally, and at face value. They are drawn to showmanship and performance. 
+However, on mass, they are non-critical media consumers. They consume media emotionally, and at face value. They are drawn to showmanship and performance.
 
-They are swayed by Pathos first, Ethos and Logos are distantly ignored. These (very human) tendencies have been exploited by fascsist extremists and the oligarchy to shape their beliefs.
+They are swayed by Pathos first, Ethos and Logos are distantly ignored. These (very human) tendencies have been exploited by fascist extremists and the oligarchy to shape their beliefs.
 
 We should meet the working class conservatives where they are: right in front of us.
 
@@ -41,13 +41,13 @@ When your neighbor starts spouting his right wing talking points, hit him with a
 
 **Example Rebuttals**
 
-- Trump is doing great things? *Trump is crashing the economy so he can manipulate the stock market.*
-- Elon is fixing stuff? *Elon is manipulating the bidding process so Starlink and Space-X can win large government contracts.*
-- Abortion / DEI / LGBT mentioned? *Rich people don’t care about these issues because they aren’t affected by them. The rich use these issues to divide Americans and make them fight each other.*
+- Trump is doing great things? _Trump is crashing the economy so he can manipulate the stock market._
+- Elon is fixing stuff? _Elon is manipulating the bidding process so Starlink and Space-X can win large government contracts._
+- Abortion / DEI / LGBT mentioned? _Rich people don’t care about these issues because they aren’t affected by them. The rich use these issues to divide Americans and make them fight each other._
 
 Cause significant doubt with few words, and always repeat the theme: They aren’t fighting for you.
 
-If you can shoot down conservatives with your own zingers, you’ll be doing more than most people. Combat the rightwing spin. 
+If you can shoot down conservatives with your own zingers, you’ll be doing more than most people. Combat the rightwing spin.
 
 We must de-normailize fascism!
 
@@ -62,7 +62,7 @@ We must de-normailize fascism!
 
 ### Tips
 
-1. In general, any activity that brings workers together in person is good activity. People are social, and so are effective democracies. Social media companies and scrolling culture are tools of the wealthy to separate and distract the working class. Isolation makes people weak. 
+1. In general, any activity that brings workers together in person is good activity. People are social, and so are effective democracies. Social media companies and scrolling culture are tools of the wealthy to separate and distract the working class. Isolation makes people weak.
 2. Use parody as your shield. Even if your content is not satirical, say it’s satirical. This blog post is satirical. I was just joking. If Donald Trump is allowed to double-speak from the oval office and people give him a pass for “riling up the libs” you can do the same on main street.
 3. Take pictures of your protest. Send them to news orgs, social media, and your elected representatives.
 4. Do a little bit every day. Trump has four years to try and erode American norms and establish his fascist legacy. But the revolution we need won’t end with Trump’s removal. It will end when the workers have the power.
