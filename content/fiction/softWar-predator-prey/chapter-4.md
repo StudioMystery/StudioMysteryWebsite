@@ -1,3 +1,11 @@
+---
+title: Chapter 4
+date: 2025-04-13
+slug: chapter-4
+tags: [SoftWar, Sci-Fi, Mechs, Tech Fiction, Yuri Asimonov]
+categories: [Fiction]
+---
+
 No sooner had the chamber pressurized than the door to the port cracked open, just slightly enough to allow the hiss of rushing air to echo through the space. Yuri glanced at the door and watched as it opened slowly. He felt a gentle pull as the low pressure tunnel equalized with the inside of the port.
 
 The figure of a man pushed the door wider, and casually glided inside, weightlessly, like a grim reaper. His eyes were narrow and fierce, like a hunter’s, his hair was long and black, tied loosely behind his head. His black stubble was patchy, matching the tattered poncho of rags and stained fabrics he wore over his broad shoulders.
